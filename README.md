@@ -50,3 +50,5 @@ sonar.projectKey=CI-CD-Pipeline
 token
 sqa_d3487e64d97469e9e6d408e7f36618807b3af54e
 /////////////////////////
+
+https://chirag0002.hashnode.dev/build-a-cicd-pipeline-using-jenkins-sonarqube-docker-and-aws
